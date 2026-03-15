@@ -3,6 +3,7 @@
 ## Source
 
 https://revistabizz.blogspot.com/p/todas-as-edicoes.html
+http://cutlinks.com/Bizz60
 
 ## Media fire scrapping
 
