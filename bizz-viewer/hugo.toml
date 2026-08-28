@@ -1,0 +1,16 @@
+baseURL = 'https://localhost/'
+languageCode = 'en-us'
+title = 'Bizz Viewer'
+#theme = 'PaperMod'
+theme = 'gallery'
+
+[module]
+  # Preserve the default content directory
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  
+  # Mount your external data folder
+  [[module.mounts]]
+    source = "../data"
+    target = "content/magazines"

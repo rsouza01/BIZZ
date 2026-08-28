@@ -319,4 +319,18 @@ typings/
 .serverless
 
 
-# End of https://www.gitignore.io/api/node,macos
+bizz-viewer/public/
+
+# Hugo generated site
+bizz-viewer/public/
+
+# Hugo image cache (Crucial for gallery themes, otherwise it commits thousands of resized thumbnails)
+bizz-viewer/resources/_gen/
+bizz-viewer/assets/jsconfig.json
+
+# Hugo build lock file
+bizz-viewer/.hugo_build.lock
+
+# macOS system files
+.DS_Store
+**/.DS_Store

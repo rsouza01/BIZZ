@@ -1,0 +1,3 @@
+[submodule "bizz-viewer/themes/gallery"]
+	path = bizz-viewer/themes/gallery
+	url = https://github.com/nicokaiser/hugo-theme-gallery.git
