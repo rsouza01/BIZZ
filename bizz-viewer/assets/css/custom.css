@@ -1,0 +1,5 @@
+@media (min-width: 768px) {
+    .gallery { /* The theme usually uses .gallery or .albums for the grid container */
+        grid-template-columns: repeat(3, 1fr) !important;
+    }
+}
