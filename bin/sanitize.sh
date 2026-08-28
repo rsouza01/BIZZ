@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-DATA_DIR="${1:-./data}"
+DATA_DIR="${1:-../data}"
 
 echo "Sanitizing folder names in $DATA_DIR..."
 

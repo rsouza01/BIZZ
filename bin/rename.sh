@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Point to your data folder
-DATA_DIR="${1:-./data}"
+DATA_DIR="${1:-../data}"
 
 # Enable nullglob so the loop doesn't fail if no folders match
 shopt -s nullglob
