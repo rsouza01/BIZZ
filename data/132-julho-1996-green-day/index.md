@@ -1,5 +1,3 @@
 ---
-title: "132-julho-1996-green-day"
-type: "magazines"
-layout: "single"
+title: "#132 (Julho 1996)"
 ---

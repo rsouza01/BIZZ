@@ -1,5 +1,3 @@
 ---
-title: "008-março-1986"
-type: "magazines"
-layout: "single"
+title: "#08 (Março 1986)"
 ---

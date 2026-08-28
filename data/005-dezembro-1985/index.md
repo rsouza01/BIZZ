@@ -1,5 +1,3 @@
 ---
-title: "005-dezembro-1985"
-type: "magazines"
-layout: "single"
+title: "#05 (Dezembro 1985)"
 ---

@@ -1,5 +1,3 @@
 ---
-title: "079-fevereiro-1992-sepultura"
-type: "magazines"
-layout: "single"
+title: "#79 (Fevereiro 1992)"
 ---

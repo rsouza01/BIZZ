@@ -1,5 +1,3 @@
 ---
-title: "181-agosto-2000-especial-15-anos"
-type: "magazines"
-layout: "single"
+title: "#181 (Agosto 2000)"
 ---

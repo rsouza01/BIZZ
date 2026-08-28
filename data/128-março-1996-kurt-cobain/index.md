@@ -1,5 +1,3 @@
 ---
-title: "128-março-1996-kurt-cobain"
-type: "magazines"
-layout: "single"
+title: "#128 (Março 1996)"
 ---

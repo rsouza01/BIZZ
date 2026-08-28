@@ -1,5 +1,3 @@
 ---
-title: "151-fevereiro-1998-bono"
-type: "magazines"
-layout: "single"
+title: "#151 (Fevereiro 1998)"
 ---

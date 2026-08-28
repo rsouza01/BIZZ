@@ -1,5 +1,3 @@
 ---
-title: "078-janeiro-1992-legião-urbana"
-type: "magazines"
-layout: "single"
+title: "#78 (Janeiro 1992)"
 ---

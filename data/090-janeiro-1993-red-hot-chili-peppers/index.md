@@ -1,5 +1,3 @@
 ---
-title: "090-janeiro-1993-red-hot-chili-peppers"
-type: "magazines"
-layout: "single"
+title: "#90 (Janeiro 1993)"
 ---

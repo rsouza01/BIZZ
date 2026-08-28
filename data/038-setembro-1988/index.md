@@ -1,5 +1,3 @@
 ---
-title: "038-setembro-1988"
-type: "magazines"
-layout: "single"
+title: "#38 (Setembro 1988)"
 ---

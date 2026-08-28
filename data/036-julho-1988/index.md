@@ -1,5 +1,3 @@
 ---
-title: "036-julho-1988"
-type: "magazines"
-layout: "single"
+title: "#36 (Julho 1988)"
 ---

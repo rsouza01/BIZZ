@@ -1,5 +1,3 @@
 ---
-title: "020-março-1987"
-type: "magazines"
-layout: "single"
+title: "#20 (Março 1987)"
 ---

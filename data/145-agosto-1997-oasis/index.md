@@ -1,5 +1,3 @@
 ---
-title: "145-agosto-1997-oasis"
-type: "magazines"
-layout: "single"
+title: "#145 (Agosto 1997)"
 ---

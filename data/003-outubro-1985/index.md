@@ -1,5 +1,3 @@
 ---
-title: "003-outubro-1985"
-type: "magazines"
-layout: "single"
+title: "#03 (Outubro 1985)"
 ---

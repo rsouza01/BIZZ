@@ -1,5 +1,3 @@
 ---
-title: "144-julho-1997-legião-urbana"
-type: "magazines"
-layout: "single"
+title: "#144 (Julho 1997)"
 ---

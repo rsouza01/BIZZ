@@ -1,5 +1,3 @@
 ---
-title: "035-junho-1988"
-type: "magazines"
-layout: "single"
+title: "#35 (Junho 1988)"
 ---

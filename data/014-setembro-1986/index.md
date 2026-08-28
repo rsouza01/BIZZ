@@ -1,5 +1,3 @@
 ---
-title: "014-setembro-1986"
-type: "magazines"
-layout: "single"
+title: "#14 (Setembro 1986)"
 ---

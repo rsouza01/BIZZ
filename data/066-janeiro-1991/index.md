@@ -1,5 +1,3 @@
 ---
-title: "066-janeiro-1991"
-type: "magazines"
-layout: "single"
+title: "#66 (Janeiro 1991)"
 ---

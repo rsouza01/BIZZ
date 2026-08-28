@@ -1,5 +1,3 @@
 ---
-title: "060-julho-1990"
-type: "magazines"
-layout: "single"
+title: "#60 (Julho 1990)"
 ---

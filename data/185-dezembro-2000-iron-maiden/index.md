@@ -1,5 +1,3 @@
 ---
-title: "185-dezembro-2000-iron-maiden"
-type: "magazines"
-layout: "single"
+title: "#185 (Dezembro 2000)"
 ---

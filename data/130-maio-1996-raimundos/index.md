@@ -1,5 +1,3 @@
 ---
-title: "130-maio-1996-raimundos"
-type: "magazines"
-layout: "single"
+title: "#130 (Maio 1996)"
 ---

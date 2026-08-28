@@ -1,5 +1,3 @@
 ---
-title: "120-julho-1995-skank"
-type: "magazines"
-layout: "single"
+title: "#120 (Julho 1995)"
 ---

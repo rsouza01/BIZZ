@@ -1,5 +1,3 @@
 ---
-title: "045-abril-1989"
-type: "magazines"
-layout: "single"
+title: "#45 (Abril 1989)"
 ---

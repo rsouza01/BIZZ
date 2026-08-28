@@ -1,5 +1,3 @@
 ---
-title: "018-janeiro-1987-sting"
-type: "magazines"
-layout: "single"
+title: "#18 (Janeiro 1987)"
 ---

@@ -1,5 +1,3 @@
 ---
-title: "084-julho-1992-pearl-jam"
-type: "magazines"
-layout: "single"
+title: "#84 (Julho 1992)"
 ---

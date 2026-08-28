@@ -1,5 +1,3 @@
 ---
-title: "064-novembro-1990"
-type: "magazines"
-layout: "single"
+title: "#64 (Novembro 1990)"
 ---

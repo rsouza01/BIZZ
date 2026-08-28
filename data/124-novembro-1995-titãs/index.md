@@ -1,5 +1,3 @@
 ---
-title: "124-novembro-1995-titãs"
-type: "magazines"
-layout: "single"
+title: "#124 (Novembro 1995)"
 ---

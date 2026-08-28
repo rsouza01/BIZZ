@@ -1,5 +1,3 @@
 ---
-title: "109-agosto-1994-pantera"
-type: "magazines"
-layout: "single"
+title: "#109 (Agosto 1994)"
 ---

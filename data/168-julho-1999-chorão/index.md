@@ -1,5 +1,3 @@
 ---
-title: "168-julho-1999-chorão"
-type: "magazines"
-layout: "single"
+title: "#168 (Julho 1999)"
 ---

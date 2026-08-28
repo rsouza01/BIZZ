@@ -1,5 +1,3 @@
 ---
-title: "069-abril-1991-faith-no-more"
-type: "magazines"
-layout: "single"
+title: "#69 (Abril 1991)"
 ---

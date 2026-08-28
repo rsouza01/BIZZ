@@ -1,5 +1,3 @@
 ---
-title: "087-outubro-1992-axl-rose"
-type: "magazines"
-layout: "single"
+title: "#87 (Outubro 1992)"
 ---

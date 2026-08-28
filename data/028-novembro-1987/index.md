@@ -1,5 +1,3 @@
 ---
-title: "028-novembro-1987"
-type: "magazines"
-layout: "single"
+title: "#28 (Novembro 1987)"
 ---

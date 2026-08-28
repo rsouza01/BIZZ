@@ -1,5 +1,3 @@
 ---
-title: "012-julho-1986"
-type: "magazines"
-layout: "single"
+title: "#12 (Julho 1986)"
 ---

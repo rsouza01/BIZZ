@@ -1,5 +1,3 @@
 ---
-title: "095-junho-1993-titãs"
-type: "magazines"
-layout: "single"
+title: "#95 (Junho 1993)"
 ---

@@ -1,5 +1,3 @@
 ---
-title: "167-junho-1999-rodolfo"
-type: "magazines"
-layout: "single"
+title: "#167 (Junho 1999)"
 ---

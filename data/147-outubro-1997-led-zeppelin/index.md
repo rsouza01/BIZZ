@@ -1,5 +1,3 @@
 ---
-title: "147-outubro-1997-led-zeppelin"
-type: "magazines"
-layout: "single"
+title: "#147 (Outubro 1997)"
 ---

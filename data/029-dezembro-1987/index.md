@@ -1,5 +1,3 @@
 ---
-title: "029-dezembro-1987"
-type: "magazines"
-layout: "single"
+title: "#29 (Dezembro 1987)"
 ---

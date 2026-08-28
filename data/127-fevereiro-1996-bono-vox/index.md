@@ -1,5 +1,3 @@
 ---
-title: "127-fevereiro-1996-bono-vox"
-type: "magazines"
-layout: "single"
+title: "#127 (Fevereiro 1996)"
 ---

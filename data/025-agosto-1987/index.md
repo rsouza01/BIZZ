@@ -1,5 +1,3 @@
 ---
-title: "025-agosto-1987"
-type: "magazines"
-layout: "single"
+title: "#25 (Agosto 1987)"
 ---

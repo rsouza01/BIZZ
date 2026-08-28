@@ -1,5 +1,3 @@
 ---
-title: "138-janeiro-1997-pink-floyd"
-type: "magazines"
-layout: "single"
+title: "#138 (Janeiro 1997)"
 ---

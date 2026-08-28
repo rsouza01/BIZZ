@@ -1,5 +1,3 @@
 ---
-title: "082-maio-1992-faith-no-more"
-type: "magazines"
-layout: "single"
+title: "#82 (Maio 1992)"
 ---

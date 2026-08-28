@@ -1,5 +1,3 @@
 ---
-title: "061-agosto-1990"
-type: "magazines"
-layout: "single"
+title: "#61 (Agosto 1990)"
 ---

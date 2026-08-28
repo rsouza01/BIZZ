@@ -1,5 +1,3 @@
 ---
-title: "092-março-1993-ministry"
-type: "magazines"
-layout: "single"
+title: "#92 (Março 1993)"
 ---

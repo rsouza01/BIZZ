@@ -1,5 +1,3 @@
 ---
-title: "162-janeiro-1999-aerosmith"
-type: "magazines"
-layout: "single"
+title: "#162 (Janeiro 1999)"
 ---

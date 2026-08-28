@@ -1,5 +1,3 @@
 ---
-title: "159-outubro-1998-alanis-morissette"
-type: "magazines"
-layout: "single"
+title: "#159 (Outubro 1998)"
 ---

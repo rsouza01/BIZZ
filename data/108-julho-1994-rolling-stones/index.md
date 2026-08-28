@@ -1,5 +1,3 @@
 ---
-title: "108-julho-1994-rolling-stones"
-type: "magazines"
-layout: "single"
+title: "#108 (Julho 1994)"
 ---

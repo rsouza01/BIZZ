@@ -1,5 +1,3 @@
 ---
-title: "049-agosto-1989"
-type: "magazines"
-layout: "single"
+title: "#49 (Agosto 1989)"
 ---

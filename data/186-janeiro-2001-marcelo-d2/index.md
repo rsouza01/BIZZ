@@ -1,5 +1,3 @@
 ---
-title: "186-janeiro-2001-marcelo-d2"
-type: "magazines"
-layout: "single"
+title: "#186 (Janeiro 2001)"
 ---

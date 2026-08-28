@@ -1,5 +1,3 @@
 ---
-title: "116-março-1995-renato-russo"
-type: "magazines"
-layout: "single"
+title: "#116 (Março 1995)"
 ---

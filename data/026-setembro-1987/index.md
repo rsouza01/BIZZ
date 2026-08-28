@@ -1,5 +1,3 @@
 ---
-title: "026-setembro-1987"
-type: "magazines"
-layout: "single"
+title: "#26 (Setembro 1987)"
 ---

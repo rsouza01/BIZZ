@@ -1,5 +1,3 @@
 ---
-title: "040-novembro-1988"
-type: "magazines"
-layout: "single"
+title: "#40 (Novembro 1988)"
 ---

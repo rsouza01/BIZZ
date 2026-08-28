@@ -1,5 +1,3 @@
 ---
-title: "053-dezembro-1989"
-type: "magazines"
-layout: "single"
+title: "#53 (Dezembro 1989)"
 ---

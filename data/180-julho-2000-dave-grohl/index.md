@@ -1,5 +1,3 @@
 ---
-title: "180-julho-2000-dave-grohl"
-type: "magazines"
-layout: "single"
+title: "#180 (Julho 2000)"
 ---

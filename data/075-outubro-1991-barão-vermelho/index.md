@@ -1,5 +1,3 @@
 ---
-title: "075-outubro-1991-barão-vermelho"
-type: "magazines"
-layout: "single"
+title: "#75 (Outubro 1991)"
 ---

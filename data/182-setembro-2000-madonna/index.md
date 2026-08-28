@@ -1,5 +1,3 @@
 ---
-title: "182-setembro-2000-madonna"
-type: "magazines"
-layout: "single"
+title: "#182 (Setembro 2000)"
 ---

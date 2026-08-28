@@ -1,5 +1,3 @@
 ---
-title: "102-janeiro-1994-zz-top"
-type: "magazines"
-layout: "single"
+title: "#102 (Janeiro 1994)"
 ---

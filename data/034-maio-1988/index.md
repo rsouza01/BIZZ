@@ -1,5 +1,3 @@
 ---
-title: "034-maio-1988"
-type: "magazines"
-layout: "single"
+title: "#34 (Maio 1988)"
 ---

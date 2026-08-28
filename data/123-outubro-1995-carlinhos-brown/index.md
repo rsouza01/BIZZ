@@ -1,5 +1,3 @@
 ---
-title: "123-outubro-1995-carlinhos-brown"
-type: "magazines"
-layout: "single"
+title: "#123 (Outubro 1995)"
 ---

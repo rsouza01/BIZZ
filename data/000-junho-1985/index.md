@@ -1,5 +1,3 @@
 ---
-title: "000-junho-1985"
-type: "magazines"
-layout: "single"
+title: "#00 (Junho 1985)"
 ---

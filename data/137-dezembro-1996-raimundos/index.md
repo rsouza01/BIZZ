@@ -1,5 +1,3 @@
 ---
-title: "137-dezembro-1996-raimundos"
-type: "magazines"
-layout: "single"
+title: "#137 (Dezembro 1996)"
 ---

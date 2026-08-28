@@ -1,5 +1,3 @@
 ---
-title: "177-abril-2000-bono-u2"
-type: "magazines"
-layout: "single"
+title: "#177 (Abril 2000)"
 ---

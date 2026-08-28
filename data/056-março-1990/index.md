@@ -1,5 +1,3 @@
 ---
-title: "056-março-1990"
-type: "magazines"
-layout: "single"
+title: "#56 (Março 1990)"
 ---

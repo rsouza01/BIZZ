@@ -1,5 +1,3 @@
 ---
-title: "188-março-2001-dinho-ouro-preto"
-type: "magazines"
-layout: "single"
+title: "#188 (Março 2001)"
 ---

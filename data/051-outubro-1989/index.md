@@ -1,5 +1,3 @@
 ---
-title: "051-outubro-1989"
-type: "magazines"
-layout: "single"
+title: "#51 (Outubro 1989)"
 ---

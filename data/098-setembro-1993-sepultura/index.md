@@ -1,5 +1,3 @@
 ---
-title: "098-setembro-1993-sepultura"
-type: "magazines"
-layout: "single"
+title: "#98 (Setembro 1993)"
 ---

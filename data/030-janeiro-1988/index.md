@@ -1,5 +1,3 @@
 ---
-title: "030-janeiro-1988"
-type: "magazines"
-layout: "single"
+title: "#30 (Janeiro 1988)"
 ---

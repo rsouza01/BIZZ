@@ -1,5 +1,3 @@
 ---
-title: "110-setembro-1994-jamaica"
-type: "magazines"
-layout: "single"
+title: "#110 (Setembro 1994)"
 ---

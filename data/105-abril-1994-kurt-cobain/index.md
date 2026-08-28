@@ -1,5 +1,3 @@
 ---
-title: "105-abril-1994-kurt-cobain"
-type: "magazines"
-layout: "single"
+title: "#105 (Abril 1994)"
 ---

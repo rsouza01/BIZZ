@@ -1,5 +1,3 @@
 ---
-title: "125-dezembro-1995-mamonas-assassinas"
-type: "magazines"
-layout: "single"
+title: "#125 (Dezembro 1995)"
 ---

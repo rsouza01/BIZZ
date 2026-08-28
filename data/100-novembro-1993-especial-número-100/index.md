@@ -1,5 +1,3 @@
 ---
-title: "100-novembro-1993-especial-número-100"
-type: "magazines"
-layout: "single"
+title: "#100 (Novembro 1993)"
 ---

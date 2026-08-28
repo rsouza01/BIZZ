@@ -1,5 +1,3 @@
 ---
-title: "065-dezembro-1990"
-type: "magazines"
-layout: "single"
+title: "#65 (Dezembro 1990)"
 ---

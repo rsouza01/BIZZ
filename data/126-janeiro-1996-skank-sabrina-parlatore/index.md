@@ -1,5 +1,3 @@
 ---
-title: "126-janeiro-1996-skank-sabrina-parlatore"
-type: "magazines"
-layout: "single"
+title: "#126 (Janeiro 1996)"
 ---

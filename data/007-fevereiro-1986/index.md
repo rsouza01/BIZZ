@@ -1,5 +1,3 @@
 ---
-title: "007-fevereiro-1986"
-type: "magazines"
-layout: "single"
+title: "#07 (Fevereiro 1986)"
 ---

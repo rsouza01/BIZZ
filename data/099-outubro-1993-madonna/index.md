@@ -1,5 +1,3 @@
 ---
-title: "099-outubro-1993-madonna"
-type: "magazines"
-layout: "single"
+title: "#99 (Outubro 1993)"
 ---

@@ -1,5 +1,3 @@
 ---
-title: "171-outubro-1999-renato-russo"
-type: "magazines"
-layout: "single"
+title: "#171 (Outubro 1999)"
 ---

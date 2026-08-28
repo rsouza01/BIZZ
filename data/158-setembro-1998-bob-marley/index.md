@@ -1,5 +1,3 @@
 ---
-title: "158-setembro-1998-bob-marley"
-type: "magazines"
-layout: "single"
+title: "#158 (Setembro 1998)"
 ---

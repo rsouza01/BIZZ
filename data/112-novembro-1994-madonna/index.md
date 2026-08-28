@@ -1,5 +1,3 @@
 ---
-title: "112-novembro-1994-madonna"
-type: "magazines"
-layout: "single"
+title: "#112 (Novembro 1994)"
 ---

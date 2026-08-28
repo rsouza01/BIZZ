@@ -1,5 +1,3 @@
 ---
-title: "091-fevereiro-1993-pantera"
-type: "magazines"
-layout: "single"
+title: "#91 (Fevereiro 1993)"
 ---

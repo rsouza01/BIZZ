@@ -1,5 +1,3 @@
 ---
-title: "183-outubro-2000-invasão-britânica"
-type: "magazines"
-layout: "single"
+title: "#183 (Outubro 2000)"
 ---

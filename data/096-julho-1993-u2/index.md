@@ -1,5 +1,3 @@
 ---
-title: "096-julho-1993-u2"
-type: "magazines"
-layout: "single"
+title: "#96 (Julho 1993)"
 ---

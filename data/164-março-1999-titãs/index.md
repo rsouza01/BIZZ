@@ -1,5 +1,3 @@
 ---
-title: "164-março-1999-titãs"
-type: "magazines"
-layout: "single"
+title: "#164 (Março 1999)"
 ---

@@ -1,5 +1,3 @@
 ---
-title: "083-junho-1992-rush"
-type: "magazines"
-layout: "single"
+title: "#83 (Junho 1992)"
 ---

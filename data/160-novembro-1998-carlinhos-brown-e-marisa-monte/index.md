@@ -1,5 +1,3 @@
 ---
-title: "160-novembro-1998-carlinhos-brown-e-marisa-monte"
-type: "magazines"
-layout: "single"
+title: "#160 (Novembro 1998)"
 ---

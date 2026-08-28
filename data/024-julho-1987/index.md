@@ -1,5 +1,3 @@
 ---
-title: "024-julho-1987"
-type: "magazines"
-layout: "single"
+title: "#24 (Julho 1987)"
 ---
