@@ -1,4 +1,5 @@
-baseURL = 'https://localhost/'
+baseURL = 'https://rsouza01.github.io/BIZZ/'
+
 languageCode = 'en-us'
 title = 'Bizz Viewer'
 #theme = 'PaperMod'
