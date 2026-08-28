@@ -13,11 +13,11 @@
 
 /* Force the gallery cards into a portrait ratio */
 .galleries .card {
-    aspect-ratio: 2 / 3 !important; 
+    aspect-ratio: 58 / 75 !important;
     height: auto !important;
 }
 
-/* Ensure the figure and image inherit and fill that new vertical space */
+/* Ensure the figure and image inherit and fill that space */
 .galleries .card figure, 
 .galleries .card img {
     aspect-ratio: inherit !important;
