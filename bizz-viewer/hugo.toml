@@ -14,3 +14,5 @@ theme = 'gallery'
   [[module.mounts]]
     source = "../data"
     target = "content/magazines"
+
+    
