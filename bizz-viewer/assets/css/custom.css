@@ -3,3 +3,24 @@
         grid-template-columns: repeat(3, 1fr) !important;
     }
 }
+
+/* Override the default landscape aspect ratio for magazine covers */
+.albums .album img {
+    aspect-ratio: 2 / 3 !important; /* Standard magazine portrait ratio */
+    object-fit: cover !important;   /* Ensures the image fills the space without squishing */
+    height: auto !important;
+}
+
+/* Force the gallery cards into a portrait ratio */
+.galleries .card {
+    aspect-ratio: 2 / 3 !important; 
+    height: auto !important;
+}
+
+/* Ensure the figure and image inherit and fill that new vertical space */
+.galleries .card figure, 
+.galleries .card img {
+    aspect-ratio: inherit !important;
+    height: 100% !important;
+    object-fit: cover !important;
+}

@@ -28,8 +28,8 @@ def generate_gallery_metadata(data_directory):
             # Construct title matching your mock-up
             title = f"#{formatted_issue} ({month} {year})"
             
-            # Construct front matter
-            front_matter = f"---\ntitle: \"{title}\"\n---\n"
+            # Construct front matter WITH weight for strict numeric sorting
+            front_matter = f"---\ntitle: \"{title}\"\nweight: {issue_num}\n---\n"
             
             index_path = folder / "index.md"
             
