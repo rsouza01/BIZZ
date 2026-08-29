@@ -22,7 +22,6 @@ jobs:
       - name: Free Disk Space (Ubuntu)
         uses: jlumbroso/free-disk-space@main
         with:
-          # This might take 1-2 minutes to run, but clears ~30GB
           tool-cache: false
           android: true
           dotnet: true
@@ -50,6 +49,12 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
         run: hugo --minify
+
+      # 4. UPLOAD THE GENERATED ARTIFACT (This was missing!)
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./bizz-viewer/public
 
   deploy:
     environment:
