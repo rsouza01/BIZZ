@@ -32,3 +32,8 @@
     user-select: none !important;
     -webkit-touch-callout: none !important; /* Disables the long-press menu on iOS */
 }
+
+/* Hide the zoom button in the PhotoSwipe lightbox */
+.pswp__button--zoom {
+    display: none !important;
+}
