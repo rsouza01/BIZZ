@@ -17,4 +17,3 @@ customJs = ["js/custom.js"]
     source = "../data"
     target = "content/magazines"
 
-    
