@@ -24,3 +24,11 @@
     height: 100% !important;
     object-fit: cover !important;
 }
+
+/* Disable mouse events and mobile touch-and-hold menus for all images */
+.galleries img {
+    pointer-events: none !important; /* Mouse clicks pass right through */
+    -webkit-user-select: none !important;
+    user-select: none !important;
+    -webkit-touch-callout: none !important; /* Disables the long-press menu on iOS */
+}

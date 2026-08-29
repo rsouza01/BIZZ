@@ -4,6 +4,8 @@ languageCode = 'en-us'
 title = 'Bizz Viewer'
 theme = 'gallery'
 
+customJs = ["js/custom.js"]
+
 [module]
   # Preserve the default content directory
   [[module.mounts]]
