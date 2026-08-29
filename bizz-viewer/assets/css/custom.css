@@ -37,3 +37,8 @@
 .pswp__button--zoom {
     display: none !important;
 }
+
+/* Forcefully hide the download button in the lightbox */
+.pswp__button--download {
+    display: none !important;
+}
