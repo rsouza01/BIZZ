@@ -42,3 +42,8 @@
 .pswp__button--download {
     display: none !important;
 }
+
+/* Forcefully hide the specific download button class found in DevTools */
+.pswp__button--download-button {
+    display: none !important;
+}
