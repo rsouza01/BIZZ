@@ -25,14 +25,6 @@
     object-fit: cover !important;
 }
 
-/* Disable mouse events and mobile touch-and-hold menus for all images */
-.galleries img {
-    pointer-events: none !important; /* Mouse clicks pass right through */
-    -webkit-user-select: none !important;
-    user-select: none !important;
-    -webkit-touch-callout: none !important; /* Disables the long-press menu on iOS */
-}
-
 /* Hide the zoom button in the PhotoSwipe lightbox */
 .pswp__button--zoom {
     display: none !important;
@@ -46,4 +38,23 @@
 /* Forcefully hide the specific download button class found in DevTools */
 .pswp__button--download-button {
     display: none !important;
+}
+
+
+/* Ghost shield for gallery thumbnails */
+.galleries img {
+    pointer-events: none !important; 
+    -webkit-user-select: none !important;
+    user-select: none !important;
+    -webkit-touch-callout: none !important; 
+    -webkit-user-drag: none !important; /* Prevents desktop drag-and-drop */
+}
+
+/* Ghost shield for the full-screen PhotoSwipe images */
+.pswp__img {
+    pointer-events: none !important; 
+    -webkit-user-select: none !important;
+    user-select: none !important;
+    -webkit-touch-callout: none !important; 
+    -webkit-user-drag: none !important; /* Prevents desktop drag-and-drop */
 }
